@@ -18,6 +18,9 @@ npm install -g create-react-app
 npm start
 ```
 
+#Sample Demonstration
+https://cloud.githubusercontent.com/assets/15076889/22866060/91487b98-f124-11e6-9abf-cb0acfcc7e55.png
+
 
 
 
